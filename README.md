@@ -33,8 +33,4 @@ Here are some of the projects I've been working on:
 
 - [LinkedIn](www.linkedin.com/in/tanmaywani)
 
-## GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TANMAY-WANI)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
