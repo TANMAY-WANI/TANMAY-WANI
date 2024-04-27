@@ -31,6 +31,6 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/tanmaywani)
+- ![LinkedIn](www.linkedin.com/in/tanmaywani)
 
 Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
