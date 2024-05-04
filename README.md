@@ -26,7 +26,7 @@ Here are some of the projects I've been working on:
 
 - [CloudVault](https://github.com/TANMAY-WANI/CloudVault)
 - [FedraFeed](https://github.com/TANMAY-WANI/FedraFeed)
-- [Inverstment-planner](https://github.com/TANMAY-WANI/Inverstment-planner)
+- [Investment-planner](https://github.com/TANMAY-WANI/Inverstment-planner)
 
 
 ## Connect with Me
