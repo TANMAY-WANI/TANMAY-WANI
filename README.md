@@ -44,7 +44,7 @@ GPA: 9.32 / 10.00
 Relevant Coursework: Data Structures and Algorithms (Java), Database Management System (SQL), Object-Oriented Programming, Design Patterns, Probability & Statistics in CS (Python and R), Theory of Computation, Operating Systems, Compiler Design
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay%20Wani-blue?logo=linkedin&logoColor=white)](https://linkedin.com/tanmaywani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay%20Wani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmaywani/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Tanmay%20Wani-black?logo=github&logoColor=white)](https://github.com/TANMAY-WANI)  
 [![Email](https://img.shields.io/badge/Email-tanmaywani145@gmail.com-blue?logo=gmail&logoColor=white)](mailto:tanmaywani145@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Tanmay%20Wani-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/TanmayWani/)
