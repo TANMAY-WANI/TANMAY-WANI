@@ -1,37 +1,12 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Tanmay Wani</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-I'm Tanmay, a passionate software developer from Gandhinagar. Welcome to my GitHub profile!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tanmaywani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmaywani" height="30" width="40" /></a>
+</p>
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 💻 I'm proficient in:
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- 🌱 Currently, I'm learning machine learning and deep learning.
-- 🚀 Frameworks:
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
-- 🛠️ Tools & Technologies:
-  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-## My Projects
-
-Here are some of the projects I've been working on:
-
-- [CloudVault](https://github.com/TANMAY-WANI/CloudVault)
-- [FedraFeed](https://github.com/TANMAY-WANI/FedraFeed)
-- [Investment-planner](https://github.com/TANMAY-WANI/Inverstment-planner)
-
-
-## Connect with Me
-
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/tanmaywani)
-
-
-Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay-wani&show_icons=true&locale=en&layout=compact" alt="tanmay-wani" /></p>
